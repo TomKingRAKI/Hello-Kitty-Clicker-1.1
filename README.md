@@ -1,9 +1,9 @@
 # Hello-Kitty-Clicker-1.1
 Alpha 1.1
-[/] Zmiana wyglądu strony
-
-[/] zmiana obrazka hello kitty Cancel changes [+] Auto zapisywanie przy refreszowaniu strony oraz po zamknieciu i ponownym otwarciu bedziecie miec swoje postepy
-
-[+] Dodanie przycisku "Reset All" który resetuje wszystkie postepy do stanu poczatkowego
-
+<h3>ZMIANY</h3>
+[/] Zmiana wyglądu strony<br>
+[/] zmiana obrazka hello kitty Cancel changes 
+<h3>DODANE
+[+] Auto zapisywanie przy refreszowaniu strony oraz po zamknieciu i ponownym otwarciu bedziecie miec swoje postepy<br>
+[+] Dodanie przycisku "Reset All" który resetuje wszystkie postepy do stanu poczatkowego<br>
 [+] Dodanie przycisków "x1 x2 x5 x10" narazie nic nie robią
