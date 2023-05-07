@@ -1,5 +1,5 @@
 # Hello-Kitty-Clicker-1.1
-Alpha 1.1
+Alpha 1.1 CHANGE LOG
 <h3>ZMIANY</h3>
 [/] Zmiana wyglądu strony<br>
 [/] zmiana obrazka hello kitty Cancel changes 
